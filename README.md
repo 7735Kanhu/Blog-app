@@ -1,8 +1,6 @@
 # blog-website-frontend-Angular
 ![alt text][logo]
 
-[logo]: src/assets/img/show.PNG "Frontend UI"
-
 **blog-website** is one of my projects where registered blogger write blogs. Bloggers can also comment to blogs. This repository holds the code of it's frontend which is developed using **Angular**.
 
 ## Features:
